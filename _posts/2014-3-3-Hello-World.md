@@ -1,7 +1,3 @@
----
-layout: post
----
-
 Associate Faculty Member, Faculty of Philosophy, and Carlsberg Foundation Visiting Fellow, Queen’s College, University of Oxford
 
 [filnk@cas.au.dk](mailto:filnk@cas.au.dk)
@@ -54,7 +50,6 @@ The following papers are **recently published or forthcoming**:
 
 - 2018 *World and Coexistence: A Critical Reconstruction of Heidegger’s Social Ontology*, PhD-thesis, Aarhus University
 
- **
 **Refereed Journal Articles**
 
 - 2020 “Heidegger and the genesis of social ontology: *Mitwelt*, *Mitsein* and the problem of other people” in *European Journal of Philosophy*
@@ -65,7 +60,6 @@ The following papers are **recently published or forthcoming**:
 - 2016 “Agambens kairologi: Erfaring og den messianske tid” in *Slagmark*, vol. 72, pp. 109-126
 - 2015 “Nostalgic *Freilassen*: Emancipation beyond Empowerment” in *Trópos. Journal of Hermeneutics and Philosophical Criticism*, Turin, pp. 55-75
 
- **
 **Other Articles**
 
 - 2014 “Redemptive Revolutions: The Political Hermeneutics of Walter Benjamin” in *Crisis and Critique*, vol. 1, pp. 166-192
