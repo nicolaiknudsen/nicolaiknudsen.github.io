@@ -2,15 +2,11 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<article class="post">
 
-      <div class="entry">
-        {{ post }}
-      </div>
+  <div class="entry">
+    {{ content }}
+  </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+  {% include disqus.html %}
+</article>
