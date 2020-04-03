@@ -1,8 +1,3 @@
----
-layout: post
-title: none
----
-
 Associate Faculty Member, Faculty of Philosophy, and Carlsberg Foundation Visiting Fellow, Queen’s College, University of Oxford
 
 [filnk@cas.au.dk](mailto:filnk@cas.au.dk)
