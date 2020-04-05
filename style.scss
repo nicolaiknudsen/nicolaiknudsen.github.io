@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4;
+  font: 22px/1.4;
   font-family: Karla, sans-serif;
   color: $darkGray;
 }
@@ -45,27 +45,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 26px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 22px;
   color: $gray;
 }
 
 p {
-        font-size: 18px;
+        font-size: 22px;
 	line-height: 1.6;
 	margin: 15px 0;
 }
@@ -183,9 +183,7 @@ img {
 
 .site-info {
   float: left;
-  vertical-align: middle;
-  height: 70px;
-	
+  position: relative;
 
   @include mobile {
     float: none;
@@ -204,8 +202,7 @@ img {
   letter-spacing: 1px;
   position: absolute;
   top: 50%;
-  height: 70px;
-  margin-top: -35px
+  transform: translateY(-50%);
 }
 
 nav {
