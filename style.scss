@@ -162,9 +162,11 @@ img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-    text-align: center;
+
   }
 }
+
+/ Plejer at være text-align: center;
 
 .site-avatar {
   float: left;
@@ -173,10 +175,12 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    float: none;
-    display: block;
+    float: left;
+    display: none;
     margin: 0 auto;
   }
+	
+	/ Plejer at være float: center; display: block;
 
   img {
     border-radius: 5px;
