@@ -201,7 +201,10 @@ img {
   font-weight: bold;
   font-size: 35px;
   letter-spacing: 1px;
+  position: absolute;
+  top: 50%;
   height: 70px;
+  margin-top: -35px
 }
 
 nav {
