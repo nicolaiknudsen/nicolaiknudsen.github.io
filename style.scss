@@ -183,13 +183,11 @@ img {
 
 .site-info {
   float: left;
-  position: relative;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
-    vertical-align: middle;
   }
 }
 
@@ -200,9 +198,7 @@ img {
   font-weight: bold;
   font-size: 35px;
   letter-spacing: 1px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  margin-top: 15px;
 }
 
 nav {
