@@ -20,6 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4;
+  font-family: Karla, sans-serif;
   color: $darkGray;
 }
 
@@ -172,7 +173,7 @@ img {
   @include mobile {
     float: left;
     display: inline;
-    margin: 0 auto;
+    margin: 0 15px auto auto;
   }
 	
   img {
