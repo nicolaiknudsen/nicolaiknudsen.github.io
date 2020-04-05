@@ -183,6 +183,8 @@ img {
 
 .site-info {
   float: left;
+  vertical-align: middle;
+	
 
   @include mobile {
     float: none;
