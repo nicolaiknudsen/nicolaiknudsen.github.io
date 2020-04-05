@@ -161,12 +161,7 @@ img {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
-  @include mobile {
-
-  }
 }
-
-/ Plejer at være text-align: center;
 
 .site-avatar {
   float: left;
@@ -180,8 +175,6 @@ img {
     margin: 0 auto;
   }
 	
-	/ Plejer at være float: center; display: block;
-
   img {
     border-radius: 5px;
   }
