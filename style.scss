@@ -115,6 +115,16 @@ img {
   padding: 0px 0px 15px 15px;
 }
 
+img.photo {
+   width: 215px;
+   height: auto;
+	
+	  @include mobile {
+    width: 100px;
+    height: auto;
+  }
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
