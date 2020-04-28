@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 16px/1.8;
-  color: $darkGray;
+  color: black;
 }
 
 .container {
@@ -31,8 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $darkerGray;
-  font-weight: bold;
+  color: black;
+  font-weight: 700;
+  font-family: arial;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -66,7 +67,8 @@ h4 {
 
 p {
         font-size: 16px;
-	line-height: 1.8;
+	font-family: arial;
+	line-height: 1.5;
 	margin: 15px 0;
 }
 
@@ -83,7 +85,8 @@ ul, ol {
   margin: 15px 0;
   padding-left: 30px;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.5;
+  font-family: arial;
 }
 
 ul {
@@ -118,6 +121,7 @@ img {
 img.photo {
    width: 215px;
    height: auto;
+   margin: 10px;
 	
 	  @include mobile {
     width: 150px;
@@ -208,7 +212,7 @@ img.photo {
   cursor: pointer;
   font-weight: bold;
   font-size: 35px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   margin-top: 10px;
 }
 
@@ -275,9 +279,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: white;
 }
 
 footer {
