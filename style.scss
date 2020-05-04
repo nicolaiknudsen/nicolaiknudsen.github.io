@@ -125,8 +125,10 @@ img.photo {
 	  @include mobile {
     display: block;
     float: center;
-    width: 200px;
-    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: auto; 
   }
 }
 
