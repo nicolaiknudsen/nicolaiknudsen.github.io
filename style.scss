@@ -121,6 +121,8 @@ img.photo {
    width: 215px;
    height: auto;
    margin: 10px;
+   float: right;
+   display: inline;
 	
 	  @include mobile {
     display: block;
